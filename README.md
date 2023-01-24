@@ -11,4 +11,4 @@ Automatically downloads, installs and configures php for the command line.
 <img alt="Image" src="Image.png"/>
 
 ***
-by mmichaelKo
+by MilesthoN
